@@ -67,7 +67,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 ## Creator
 
-(Swapnesh Chogle) Hey, Dont Forget To say Thanks me :smile:
+Swapnesh Chogle :smile:
 
 
 
