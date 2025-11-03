@@ -70,29 +70,12 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 (Swapnesh Chogle) Hey, Dont Forget To say Thanks me :smile:
 
 
-# SCREENSHOT
-
-
-![](Snapshots/0.png)
-![](Snapshots/1.png)
-![](Snapshots/2.png)
-![](Snapshots/3.png)
-![](Snapshots/4.png)
-![](Snapshots/5.png)
-![](Snapshots/6.png)
-![](Snapshots/7.png)
-
-
-
-
 
 # Feel Free To Contact Me.
 
 
 
-
 # Disclaimer 
-
 
 AirFortress is not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose :smile: !!!
 
